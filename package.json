@@ -1,0 +1,19 @@
+{
+  "name": "winecellar",
+  "version": "1.0.0",
+  "description": "Classify your wine bottles by the year when you can drink it, not the region or any other criteria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabienLebas/WineCellar.git"
+  },
+  "author": "Fabien Lebas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabienLebas/WineCellar/issues"
+  },
+  "homepage": "https://github.com/FabienLebas/WineCellar#readme"
+}
